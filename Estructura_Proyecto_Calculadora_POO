@@ -1,0 +1,9 @@
+CalculadoraPOO/
+├── src/
+│   ├── Main.java
+│   ├── operaciones/
+│   │   ├── Operacion.java
+│   │   ├── OperacionBasica.java
+│   │   ├── Potencia.java
+│   │   └── Resultado.java
+├── README.md
